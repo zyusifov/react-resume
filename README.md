@@ -1,1 +1,1 @@
-React.js frontend for resume project
+React.js frontend for resume posting site.
